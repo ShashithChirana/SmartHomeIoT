@@ -6,7 +6,7 @@ A new Flutter project.
 
 ### Features
 
-Automated control of smart devices.
-Real-time monitoring and alerts.
+Automated control of smart devices,
+Real-time monitoring and alerts,
 Remote access and task scheduling.
 
